@@ -22,3 +22,22 @@ Python
 Pandas, NumPy
 Scikit-learn
 Streamlit
+
+📂 Dataset
+
+Due to GitHub file size limitations, the dataset and database files are not included in this repository.
+👉 You can download them from Google Drive:
+
+🔗 Download Dataset: https://drive.google.com/file/d/1kvQ6jNxdhtZjtv6i6kOVuG0W7ERgVeeC/view?usp=drive_link
+
+📥 How to Use the Dataset
+
+Download the dataset from the link above
+Extract (if zipped)
+Add it in data/ directory of the project
+
+Place the files inside:
+
+project/
+├── data/
+│   ├── inventory.db
