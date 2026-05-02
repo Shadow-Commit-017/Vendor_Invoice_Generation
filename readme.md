@@ -41,3 +41,6 @@ Place the files inside:
 project/
 ├── data/
 │   ├── inventory.db
+├── notebooks/
+│   ├── freight_cost.ipynb
+│   ├── invoice_flagging.ipynb
